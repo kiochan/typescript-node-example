@@ -1,0 +1,8 @@
+{
+  "name": "typescript-node-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kiochan/typescript-node-example.git",
+  "author": "Kiochan <sunxingchen@live.com>",
+  "license": "MIT"
+}
